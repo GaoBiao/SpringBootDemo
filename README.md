@@ -1,5 +1,5 @@
 # SpringBootDemo
-基于SpringBoot的webDemo<br>
+基于SpringBoot快速搭建Java Web 服务器端模块化开发框架<br>
 IDE:MyEclipse 2017<br>
 JAVA环境:jdk8<br>
 数据库环境:MySql<br>
